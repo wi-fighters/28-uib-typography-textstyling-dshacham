@@ -6,9 +6,46 @@
 
 body {
     padding: 40px;
+    font-family: cursive, Arial, sans-serif;
 }
 
 blockquote {
     margin: 0 0 0 30px;
+    font-style: italic;
+    line-height: 3;
 }
 
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+    text-align: center;
+    letter-spacing: -1px;
+    word-spacing: 10px;
+}
+
+span {
+    text-decoration: line-through;
+}
+
+em {
+    text-transform: capitalize;
+}
+
+strong {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+a {
+    color: palevioletred;
+    text-decoration: none;
+}
